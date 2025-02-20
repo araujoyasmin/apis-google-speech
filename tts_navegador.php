@@ -36,6 +36,7 @@
         document.getElementById('btn-stt').addEventListener('click', function() {
             document.getElementById('stt-content').classList.add('active');
             document.getElementById('tts-content').classList.remove('active');
+            
         });
 
 
